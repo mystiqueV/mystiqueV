@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrien Poiraudeau-kolomoetz</h1>
 <h3 align="center">A passionate student at Epitech from Reunion Island</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/bJk.gif">
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mystiquev&label=Profile%20views&color=0e75b6&style=flat" alt="mystiquev" /> </p>
 
